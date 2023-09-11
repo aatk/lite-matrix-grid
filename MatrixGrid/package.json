@@ -1,0 +1,27 @@
+{
+    "name": "matrixgrid",
+    "version": "1.0.0",
+    "type": "ReactCMS",
+    "codeName": "MatrixGrid",
+    "enabled": true,
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "",
+    "dependencies": {},
+    "dependenciesNodeCMS": {},
+    "dependenciesReactCMS": {},
+    "extensions": {}
+}
